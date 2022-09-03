@@ -1,0 +1,173 @@
+body{
+    height: max-content;
+   background-color: black;
+    margin: 0cm;
+    padding: 0%;
+       
+  }
+  .title{
+    position: fixed;
+    height: 50px;
+    width: 100%;
+   background-color:greenyellow;
+      margin-top: 0%;
+      margin: 0%;
+      padding: 13px;
+      border: none;
+  }
+  .imgh{
+    width: auto;
+    
+  }
+  .title img{
+    float: left;
+    height: 40px;
+    width: auto;
+  
+  }
+  
+  .title h1{
+    margin: 0%;
+    padding: 0%;
+    width: min-content;
+    text-decoration: none;
+    color: blue;
+  
+  }
+  .title h4{
+    margin: 0%;
+    padding: 0%;
+   margin-right: 20px;
+    text-decoration: none;
+    width: auto;
+    float: right;
+  }
+  .home{
+    width: auto;
+  }
+  .body{
+    left: 0;
+    background-color: rgb(246, 251, 252);
+    padding: 20px;
+    margin: 1%;
+    margin-top: 6%;
+    width: 70%;
+    min-height:70vh;
+    float: right;
+  }
+  .info{
+    background-color: rgb(246, 251, 252);
+    height: 100%;
+    padding: 20px;
+    top: 0;
+    
+  }
+  .info h1{
+    margin-left: 40px;
+  }
+
+  .recant2{
+    top: 80px;
+    bottom: 0;
+      overflow: scroll;
+    position: fixed;
+    background-color: rgb(91, 218, 101);
+    margin-left: 20px;
+    width: 20%;
+  }
+  
+  
+  
+   .recanth{
+     background-color: rgb(224, 190, 190);
+     margin: 7px 10px;
+     width: 88%;
+     padding: 10px;
+     border-radius: 5px;
+   }
+   .recanth :hover{
+     color: darkorange;
+   }
+   .next
+   {
+     float:right;
+     margin-right: 10%;
+     background-color: green;
+     font-size: 20px;
+     border: none;
+     width: 100px;
+     height: 40px;
+     color: aliceblue;
+     border-radius: 10px;
+
+   }
+ 
+   .prev{
+    float:left;
+    margin-left: 10%;
+    background-color: green;
+    font-size: 20px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 10px;
+
+  }
+  .content{
+    margin-top: 80px;
+    margin-left: 40px;
+
+
+  }
+
+.line{
+  height: 1px;
+  background: rgb(228, 203, 203);
+}
+.space{
+  line-height: 25px;
+
+  margin-left: 70px;
+}
+.htmlimg{
+  margin-left: 10%;
+  background-color: rgb(233, 237, 241);
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+
+}
+.p{
+  background-color: black;
+  color: aliceblue;
+}
+.p p{
+  padding: 20px;
+}
+.run{
+width: 80px;
+height: 30px;
+background-color: green;
+color: white;
+border-radius: 10px;
+border:none;
+}
+.explain{
+  line-height: 30px;
+  margin-left: 30px;
+}
+.every{
+  margin-left: 30px;
+  line-height: 30px;
+}
+.notey{
+  padding: 10px;
+  width: 100%;
+  height:auto;
+  background-color: rgb(223, 241, 223);
+}
+.last{
+  margin-top: 30px;
+}

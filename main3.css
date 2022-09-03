@@ -1,0 +1,80 @@
+.bodyphp{ /* for whole body expect title*/
+    left: 0;
+    background-color: #FFF4A3 ;
+    padding: 20px;
+    margin: 1%;
+    width: 70%;
+    min-height: 80vh;
+    float: right;
+  }
+  .infop{  /* main content  of html*/
+    background-color: #FFF4A3 ;
+    min-height: 75vh;
+    padding: 20px;
+    top: 0;
+    
+  }
+  .infop h1{ /* heading of main content of html*/
+    margin-top: 100px;
+    margin-left: 40px;
+    width: min-content;
+  }
+  
+  .htmlintrop{ /*html content */
+    width: 50%;
+    line-height: 30px;
+  
+  }
+  .htmlimgp{ /* example img */
+   width:50%;
+   height: auto;
+   background-color: rgb(253, 253, 253);
+   float: right;
+   margin-top: 30px;
+   margin-right: 30px;
+  
+  }
+  .htmlimgp h1{
+    padding-left: 1%;
+  }
+  
+  .pp{
+    background-color: black;
+    color: antiquewhite;
+    margin: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
+  .pp p{
+    margin-top: 20px;
+    margin: 5%;
+  }
+  
+  .runp{
+    background-color: darkolivegreen;
+    margin-left: 50px; 
+    margin-bottom: 20px; 
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    
+  }
+  .runp em{
+    color: beige;
+    size: 20px;
+  }
+  .learnp{
+    margin-top: 100px;
+    margin-left: 100px;
+  }
+  .learnp button{
+   border-radius: 30px;
+   width: 200px;
+   height: 50px;
+   background-color: green;
+   color: white;
+   font-size: 20px;
+   box-shadow: none;
+   border: none;
+   
+  }
