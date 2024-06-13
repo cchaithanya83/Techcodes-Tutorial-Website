@@ -99,5 +99,3 @@ If you would like to contribute to this project, please follow these steps:
 4. Push your changes to your fork.
 5. Create a pull request with a detailed description of your changes.
 
-
-```
